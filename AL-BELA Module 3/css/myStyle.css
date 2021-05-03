@@ -1,0 +1,39 @@
+body{
+	background-color: #b30047;
+	font-size: 16px;
+	color: #fff;
+	font-family: 'Oxygen', sans-serif;
+
+}
+#header-nav{
+	background-color: #fcb503;
+	border-radius:0px;
+	border: 0px;
+}
+#logo-img{
+	background: url(../images/logo.png) no-repeat;
+	height: 150px;
+	background-position: center;
+	width: 150px;
+	margin: 10px 10px 10px 0;
+}
+.navbar-brand{
+	padding: 25px;
+}
+.navbar-brand h1{
+	font-family: 'lora', serif;
+	font-weight: bolder;
+	font-size-adjust: 1.5 em;
+	color: green;
+	text-shadow: 3px 3px 3px;
+
+}
+.navbar-brand p{
+	text-transform: uppercase;
+	margin-top: 10px;
+	font-size: 1em;
+}
+.navbar-brand p span{
+	vertical-align: middle;
+	font-weight: bold;
+}
